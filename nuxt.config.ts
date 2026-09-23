@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     buildAssetsDir: '/assets/',
     head: {
       script: [
-        { src: 'https://widget.novofon.ru/novofon.js?k=GdNfZlH5wSX_Wn8WV1I3aGEYAwnABGdR', tagPosition: 'bodyClose' } // В конце body
+        { src: 'https://widget.novofon.ru/novofon.js?k=GdNfZlH5wSX_Wn8WV1I3aGEYAwnABGdR', tagPosition: 'bodyClose' }
       ],
       link: [{ rel: 'icon', type: 'image/x-icon', href: 'https://it-edu.com/mipt-school/wp-content/themes/mipt_school/favicon.ico' }]
     },
