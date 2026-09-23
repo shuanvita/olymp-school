@@ -62,8 +62,10 @@
                 </div>
             </div>
 
+          <div class="flex justify-center">
             <BaseButton v-if="props.type" as="a" href="#direction" class="max-w-[260px] flex justify-center text-center">Выбрать
-                направление</BaseButton>
+              направление</BaseButton>
+          </div>
 
         </div>
     </BaseSection>
