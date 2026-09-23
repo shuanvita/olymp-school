@@ -83,11 +83,6 @@ import 'swiper/css'; // Базовые стили Swiper
 const props = defineProps<{ isOpen: boolean, closeModal: () => void, start: int }>()
 //const props = defineProps(['open', 'start', 'closeModal']);
 
-const baseURL = useRuntimeConfig().app.baseURL.replace(/\/$/, '')
-function withBase(path: string) {
-  return baseURL + path
-}
-
 const isOpen = ref(false);
 const startPosition = ref(0);
 const swiperInstance = ref(null);

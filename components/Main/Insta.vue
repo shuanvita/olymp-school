@@ -32,11 +32,6 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
-const baseURL = useRuntimeConfig().app.baseURL.replace(/\/$/, '')
-function withBase(path) {
-    return baseURL + path
-}
-
 const storiesData = ref([
     { id: 1, type: 'image', src: '/Insta/Preview 1.png', caption: 'История 1' },
     // { id: 2, type: 'image', src: '/Insta/Preview 21.png', caption: 'История 2' },

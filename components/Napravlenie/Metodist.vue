@@ -20,7 +20,7 @@
                         <div
                             class="grid grid-cols-2 max-[800px]:grid-cols-3 max-[750px]:grid-cols-1 px-10 py-10 items-start justify-between gap-18 max-[900px]:gap-8 relative z-20 max-[750px]:px-5 max-[750px]:py-5">
                             <div class="relative max-[800px]:col-span-1">
-                                <img :src="item.photo"
+                                <img :src="withBase(item.photo)"
                                     class="w-full max-w-[500px] max-[900px]:max-w-[400px] max-[800px]:max-w-[300px] max-[750px]:max-w-[400px] max-[750px]:mx-auto"
                                     alt="">
                             </div>

@@ -40,7 +40,7 @@
                 }" :spaceBetween="24" :modules="modules" :lazy="true" class="mySwiperPrice pb-5!">
                     <SwiperSlide class="max-w-[200px]" v-for="item in storiesData">
                         <div class="flex items-center gap-3 p-5 px-4 flex-col rounded-2xl bg-primary-light/20">
-                            <div class="flex items-center justify-center h-7.5"><img :src="item.icon" alt=""></div>
+                            <div class="flex items-center justify-center h-7.5"><img :src="withBase(item.icon)" alt=""></div>
                             <h3 class="text-base font-bold">{{ item.name }}</h3>
                             <span class="text-xl font-bold">{{ item.procent }}</span>
                             <p class="text-center text-sm" v-html="item.descr"></p>

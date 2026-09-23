@@ -20,7 +20,7 @@
             </div>
             <div class="flex gap-5 max-[580px]:justify-center  max-[580px]:gap-6 max-[580px]:w-full">
                 <div v-for="valuePeople in props.info.people" class="ralative flex flex-col items-center">
-                    <img class="max-w-[171px] max-xmd:max-w-[150px] w-full mb-4" :src="valuePeople.img" :alt="valuePeople.name">
+                    <img class="max-w-[171px] max-xmd:max-w-[150px] w-full mb-4" :src="withBase(valuePeople.img)" :alt="valuePeople.name">
                     <div class="text-md font-normal text-center" v-html="valuePeople.name">
                     </div>
                 </div>

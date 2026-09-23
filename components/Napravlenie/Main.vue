@@ -13,7 +13,7 @@
                     v-html="props.descr"></div>
             </div>
             <div>
-                <img class="max-w-[500px] max-[1000px]:max-w-[400px] max-[900px]:max-w-[350px] w-full" :src="props.img" alt="">
+                <img class="max-w-[500px] max-[1000px]:max-w-[400px] max-[900px]:max-w-[350px] w-full" :src="withBase(props.img)" alt="">
             </div>
         </div>
     </BaseSection>
