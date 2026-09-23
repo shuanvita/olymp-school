@@ -1,6 +1,6 @@
 <script setup lang='ts'>
 import CourseButton from '~/components/base/BaseButton.vue'
-import { ref } from 'Vue'
+import { ref } from 'vue'
 
 const isOpen = ref(false)
 

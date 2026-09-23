@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'Vue'
+import { ref } from 'vue'
 
 const props = 
   defineProps<{
