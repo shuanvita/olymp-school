@@ -1,0 +1,1962 @@
+[
+  {
+    "emoji": "twemoji:flag-afghanistan",
+    "name": "Afghanistan",
+    "code": "AF",
+    "startsWith": "93",
+    "translateRU": "Афганистан",
+    "mask": "+{93} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-aland-islands",
+    "name": "Aland Islands",
+    "code": "AX",
+    "startsWith": "358",
+    "translateRU": "Аландские острова",
+    "mask": "+{358} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-albania",
+    "name": "Albania",
+    "code": "AL",
+    "startsWith": "355",
+    "translateRU": "Албания",
+    "mask": "+{355} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-algeria",
+    "name": "Algeria",
+    "code": "DZ",
+    "startsWith": "213",
+    "translateRU": "Алжир",
+    "mask": "+{213} ## ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-american-samoa",
+    "name": "American Samoa",
+    "code": "AS",
+    "startsWith": "1",
+    "translateRU": "Американское Самоа",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-andorra",
+    "name": "Andorra",
+    "code": "AD",
+    "startsWith": "376",
+    "translateRU": "Андорра",
+    "mask": "+{376} ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-angola",
+    "name": "Angola",
+    "code": "AO",
+    "startsWith": "244",
+    "translateRU": "Ангола",
+    "mask": "+{244} ### ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-anguilla",
+    "name": "Anguilla",
+    "code": "AI",
+    "startsWith": "1",
+    "translateRU": "Ангилья",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-antarctica",
+    "name": "Antarctica",
+    "code": "AQ",
+    "startsWith": "672",
+    "translateRU": "Антарктида",
+    "mask": "+{672} # ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-antigua-and-barbuda",
+    "name": "Antigua And Barbuda",
+    "code": "AG",
+    "startsWith": "1",
+    "translateRU": "Антигуа и Барбуда",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-argentina",
+    "name": "Argentina",
+    "code": "AR",
+    "startsWith": "54",
+    "translateRU": "Аргентина",
+    "mask": "+{54} # ## ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-armenia",
+    "name": "Armenia",
+    "code": "AM",
+    "startsWith": "374",
+    "translateRU": "Армения",
+    "mask": "+{374} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-aruba",
+    "name": "Aruba",
+    "code": "AW",
+    "startsWith": "297",
+    "translateRU": "Аруба",
+    "mask": "+{297} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-australia",
+    "name": "Australia",
+    "code": "AU",
+    "startsWith": "61",
+    "translateRU": "Австралия",
+    "mask": "+{61} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-austria",
+    "name": "Austria",
+    "code": "AT",
+    "startsWith": "43",
+    "translateRU": "Австрия",
+    "mask": "+{43} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-azerbaijan",
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "startsWith": "994",
+    "translateRU": "Азербайджан",
+    "mask": "+{994} ## ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-bahamas",
+    "name": "Bahamas",
+    "code": "BS",
+    "startsWith": "1",
+    "translateRU": "Багамские Острова",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-bahrain",
+    "name": "Bahrain",
+    "code": "BH",
+    "startsWith": "973",
+    "translateRU": "Бахрейн",
+    "mask": "+{973} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-bangladesh",
+    "name": "Bangladesh",
+    "code": "BD",
+    "startsWith": "880",
+    "translateRU": "Бангладеш",
+    "mask": "+{88\\0} # ### ###[#]"
+  },
+  {
+    "emoji": "twemoji:flag-barbados",
+    "name": "Barbados",
+    "code": "BB",
+    "startsWith": "1",
+    "translateRU": "Барбадос",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-belarus",
+    "name": "Belarus",
+    "code": "BY",
+    "startsWith": "375",
+    "translateRU": "Беларусь",
+    "mask": "+{375} (##) ###-##-##"
+  },
+  {
+    "emoji": "twemoji:flag-belgium",
+    "name": "Belgium",
+    "code": "BE",
+    "startsWith": "32",
+    "translateRU": "Бельгия",
+    "mask": "+{32} # ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-belize",
+    "name": "Belize",
+    "code": "BZ",
+    "startsWith": "501",
+    "translateRU": "Белиз",
+    "mask": "+{5\\01} ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-benin",
+    "name": "Benin",
+    "code": "BJ",
+    "startsWith": "229",
+    "translateRU": "Бенин",
+    "mask": "+{229} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-bermuda",
+    "name": "Bermuda",
+    "code": "BM",
+    "startsWith": "1",
+    "translateRU": "Бермудские Острова",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-bhutan",
+    "name": "Bhutan",
+    "code": "BT",
+    "startsWith": "975",
+    "translateRU": "Бутан",
+    "mask": "+{975} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-bolivia",
+    "name": "Bolivia",
+    "code": "BO",
+    "startsWith": "591",
+    "translateRU": "Боливия",
+    "mask": "+{591} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-bosnia-and-herzegovina",
+    "name": "Bosnia And Herzegovina",
+    "code": "BA",
+    "startsWith": "387",
+    "translateRU": "Босния и Герцеговина",
+    "mask": "+{387} ## ###-###[#]"
+  },
+  {
+    "emoji": "twemoji:flag-botswana",
+    "name": "Botswana",
+    "code": "BW",
+    "startsWith": "267",
+    "translateRU": "Ботсвана",
+    "mask": "+{267} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-bouvet-island",
+    "name": "Bouvet Island",
+    "code": "BV",
+    "startsWith": "47",
+    "translateRU": "Остров Буве",
+    "mask": "+{47} ### ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-brazil",
+    "name": "Brazil",
+    "code": "BR",
+    "startsWith": "55",
+    "translateRU": "Бразилия",
+    "mask": "+{55} ## #### ####[#]"
+  },
+  {
+    "emoji": "twemoji:flag-british-indian-ocean-territory",
+    "name": "British Indian Ocean Territory",
+    "code": "IO",
+    "startsWith": "246",
+    "translateRU": "Британская территория в Индийском океане",
+    "mask": "+{246} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-brunei",
+    "name": "Brunei Darussalam",
+    "code": "BN",
+    "startsWith": "673",
+    "translateRU": "Бруней-Даруссалам",
+    "mask": "+{673} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-bulgaria",
+    "name": "Bulgaria",
+    "code": "BG",
+    "startsWith": "359",
+    "translateRU": "Болгария",
+    "mask": "+{359} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-burkina-faso",
+    "name": "Burkina Faso",
+    "code": "BF",
+    "startsWith": "226",
+    "translateRU": "Буркина-Фасо",
+    "mask": "+{226} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-burundi",
+    "name": "Burundi",
+    "code": "BI",
+    "startsWith": "257",
+    "translateRU": "Бурунди",
+    "mask": "+{257} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-cambodia",
+    "name": "Cambodia",
+    "code": "KH",
+    "startsWith": "855",
+    "translateRU": "Камбоджа",
+    "mask": "+{855} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-cameroon",
+    "name": "Cameroon",
+    "code": "CM",
+    "startsWith": "237",
+    "translateRU": "Камерун",
+    "mask": "+{237} # ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-canada",
+    "name": "Canada",
+    "code": "CA",
+    "startsWith": "1",
+    "translateRU": "Канада",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-cape-verde",
+    "name": "Cape Verde",
+    "code": "CV",
+    "startsWith": "238",
+    "translateRU": "Кабо-Верде",
+    "mask": "+{238} (##) ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-cayman-islands",
+    "name": "Cayman Islands",
+    "code": "KY",
+    "startsWith": "1",
+    "translateRU": "Каймановы Острова",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-central-african-republic",
+    "name": "Central African Republic",
+    "code": "CF",
+    "startsWith": "236",
+    "translateRU": "Центральноафриканская Республика",
+    "mask": "+{236} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-chad",
+    "name": "Chad",
+    "code": "TD",
+    "startsWith": "235",
+    "translateRU": "Чад",
+    "mask": "+{235} ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-chile",
+    "name": "Chile",
+    "code": "CL",
+    "startsWith": "56",
+    "translateRU": "Чили",
+    "mask": "+{56} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-china",
+    "name": "China",
+    "code": "CN",
+    "startsWith": "86",
+    "translateRU": "Китай",
+    "mask": "+{86} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-christmas-island",
+    "name": "Christmas Island",
+    "code": "CX",
+    "startsWith": "61",
+    "translateRU": "Остров Рождества",
+    "mask": "+{61} # ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-cocos-keeling-islands",
+    "name": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "startsWith": "61",
+    "translateRU": "Кокосовые (Килинг) острова",
+    "mask": "+{61} # ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-colombia",
+    "name": "Colombia",
+    "code": "CO",
+    "startsWith": "57",
+    "translateRU": "Колумбия",
+    "mask": "+{57} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-comoros",
+    "name": "Comoros",
+    "code": "KM",
+    "startsWith": "269",
+    "translateRU": "Коморы",
+    "mask": "+{269} ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-congo-brazzaville",
+    "name": "Congo",
+    "code": "CG",
+    "startsWith": "242",
+    "translateRU": "Конго",
+    "mask": "+{242} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-congo-kinshasa",
+    "name": "Congo, Democratic Republic",
+    "code": "CD",
+    "startsWith": "243",
+    "translateRU": "Демократическая Республика Конго",
+    "mask": "+{243} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-cook-islands",
+    "name": "Cook Islands",
+    "code": "CK",
+    "startsWith": "682",
+    "translateRU": "Острова Кука",
+    "mask": "+{682} ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-costa-rica",
+    "name": "Costa Rica",
+    "code": "CR",
+    "startsWith": "506",
+    "translateRU": "Коста-Рика",
+    "mask": "+{5\\06} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-cote-divoire",
+    "name": "Cote D'Ivoire",
+    "code": "CI",
+    "startsWith": "225",
+    "translateRU": "Кот-д’Ивуар",
+    "mask": "+{225} ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-croatia",
+    "name": "Croatia",
+    "code": "HR",
+    "startsWith": "385",
+    "translateRU": "Хорватия",
+    "mask": "+{385} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-cuba",
+    "name": "Cuba",
+    "code": "CU",
+    "startsWith": "53",
+    "translateRU": "Куба",
+    "mask": "+{53} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-cyprus",
+    "name": "Cyprus",
+    "code": "CY",
+    "startsWith": "357",
+    "translateRU": "Кипр",
+    "mask": "+{357} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-czechia",
+    "name": "Czech Republic",
+    "code": "CZ",
+    "startsWith": "420",
+    "translateRU": "Чехия",
+    "mask": "+{42\\0} ### ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-denmark",
+    "name": "Denmark",
+    "code": "DK",
+    "startsWith": "45",
+    "translateRU": "Дания",
+    "mask": "+{45} ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-djibouti",
+    "name": "Djibouti",
+    "code": "DJ",
+    "startsWith": "253",
+    "translateRU": "Джибути",
+    "mask": "+{253} ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-dominica",
+    "name": "Dominica",
+    "code": "DM",
+    "startsWith": "1",
+    "translateRU": "Доминика",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-dominican-republic",
+    "name": "Dominican Republic",
+    "code": "DO",
+    "startsWith": "1",
+    "translateRU": "Доминиканская Республика",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-ecuador",
+    "name": "Ecuador",
+    "code": "EC",
+    "startsWith": "593",
+    "translateRU": "Эквадор",
+    "mask": "+{593} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-egypt",
+    "name": "Egypt",
+    "code": "EG",
+    "startsWith": "20",
+    "translateRU": "Египет",
+    "mask": "+{2\\0} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-el-salvador",
+    "name": "El Salvador",
+    "code": "SV",
+    "startsWith": "503",
+    "translateRU": "Сальвадор",
+    "mask": "+{5\\03} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-equatorial-guinea",
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "startsWith": "240",
+    "translateRU": "Экваториальная Гвинея",
+    "mask": "+{24\\0} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-eritrea",
+    "name": "Eritrea",
+    "code": "ER",
+    "startsWith": "291",
+    "translateRU": "Эритрея",
+    "mask": "+{291} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-estonia",
+    "name": "Estonia",
+    "code": "EE",
+    "startsWith": "372",
+    "translateRU": "Эстония",
+    "mask": "+{372} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-ethiopia",
+    "name": "Ethiopia",
+    "code": "ET",
+    "startsWith": "251",
+    "translateRU": "Эфиопия",
+    "mask": "+{251} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-falkland-islands",
+    "name": "Falkland Islands (Malvinas)",
+    "code": "FK",
+    "startsWith": "500",
+    "translateRU": "Фолклендские острова (Мальвинские острова)",
+    "mask": "+{5\\0\\0} #####"
+  },
+  {
+    "emoji": "twemoji:flag-faroe-islands",
+    "name": "Faroe Islands",
+    "code": "FO",
+    "startsWith": "298",
+    "translateRU": "Фарерские острова",
+    "mask": "+{298} ######"
+  },
+  {
+    "emoji": "twemoji:flag-fiji",
+    "name": "Fiji",
+    "code": "FJ",
+    "startsWith": "679",
+    "translateRU": "Фиджи",
+    "mask": "+{679} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-finland",
+    "name": "Finland",
+    "code": "FI",
+    "startsWith": "358",
+    "translateRU": "Финляндия",
+    "mask": "+{358} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-france",
+    "name": "France",
+    "code": "FR",
+    "startsWith": "33",
+    "translateRU": "Франция",
+    "mask": "+{33} # ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-french-guiana",
+    "name": "French Guiana",
+    "code": "GF",
+    "startsWith": "594",
+    "translateRU": "Французская Гвиана",
+    "mask": "+{594} ##### ####"
+  },
+  {
+    "emoji": "twemoji:flag-french-polynesia",
+    "name": "French Polynesia",
+    "code": "PF",
+    "startsWith": "689",
+    "translateRU": "Французская Полинезия",
+    "mask": "+{689} ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-french-southern-territories",
+    "name": "French Southern Territories",
+    "code": "TF",
+    "startsWith": "262",
+    "translateRU": "Французские Южные Территории",
+    "mask": "+{262} ##### ####"
+  },
+  {
+    "emoji": "twemoji:flag-gabon",
+    "name": "Gabon",
+    "code": "GA",
+    "startsWith": "241",
+    "translateRU": "Габон",
+    "mask": "+{241} # ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-gambia",
+    "name": "Gambia",
+    "code": "GM",
+    "startsWith": "220",
+    "translateRU": "Гамбия",
+    "mask": "+{22\\0} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-georgia",
+    "name": "Georgia",
+    "code": "GE",
+    "startsWith": "995",
+    "translateRU": "Грузия",
+    "mask": "+{995} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-germany",
+    "name": "Germany",
+    "code": "DE",
+    "startsWith": "49",
+    "translateRU": "Германия",
+    "mask": "+{49} ## ######"
+  },
+  {
+    "emoji": "twemoji:flag-ghana",
+    "name": "Ghana",
+    "code": "GH",
+    "startsWith": "233",
+    "translateRU": "Гана",
+    "mask": "+{233} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-gibraltar",
+    "name": "Gibraltar",
+    "code": "GI",
+    "startsWith": "350",
+    "translateRU": "Гибралтар",
+    "mask": "+{35\\0} ### #####"
+  },
+  {
+    "emoji": "twemoji:flag-greece",
+    "name": "Greece",
+    "code": "GR",
+    "startsWith": "30",
+    "translateRU": "Греция",
+    "mask": "+{3\\0} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-greenland",
+    "name": "Greenland",
+    "code": "GL",
+    "startsWith": "299",
+    "translateRU": "Гренландия",
+    "mask": "+{299} ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-grenada",
+    "name": "Grenada",
+    "code": "GD",
+    "startsWith": "1",
+    "translateRU": "Гренада",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-guadeloupe",
+    "name": "Guadeloupe",
+    "code": "GP",
+    "startsWith": "590",
+    "translateRU": "Гваделупа",
+    "mask": "+{59\\0} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-guam",
+    "name": "Guam",
+    "code": "GU",
+    "startsWith": "1",
+    "translateRU": "Гуам",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-guatemala",
+    "name": "Guatemala",
+    "code": "GT",
+    "startsWith": "502",
+    "translateRU": "Гватемала",
+    "mask": "+{5\\02} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-guernsey",
+    "name": "Guernsey",
+    "code": "GG",
+    "startsWith": "44",
+    "translateRU": "Гернси",
+    "mask": "+{44} #### ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-guinea",
+    "name": "Guinea",
+    "code": "GN",
+    "startsWith": "224",
+    "translateRU": "Гвинея",
+    "mask": "+{224} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-guinea-bissau",
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "startsWith": "245",
+    "translateRU": "Гвинея-Бисау",
+    "mask": "+{245} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-guyana",
+    "name": "Guyana",
+    "code": "GY",
+    "startsWith": "592",
+    "translateRU": "Гайана",
+    "mask": "+{592} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-haiti",
+    "name": "Haiti",
+    "code": "HT",
+    "startsWith": "509",
+    "translateRU": "Гаити",
+    "mask": "+{5\\09} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-heard-and-mcdonald-islands",
+    "name": "Heard Island & Mcdonald Islands",
+    "code": "HM",
+    "startsWith": "672",
+    "translateRU": "Остров Херд и острова Макдональд",
+    "mask": "+{672} # ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-vatican-city",
+    "name": "Holy See (Vatican City State)",
+    "code": "VA",
+    "startsWith": "39",
+    "translateRU": "Ватикан",
+    "mask": "+{39} ## ### #####"
+  },
+  {
+    "emoji": "twemoji:flag-honduras",
+    "name": "Honduras",
+    "code": "HN",
+    "startsWith": "504",
+    "translateRU": "Гондурас",
+    "mask": "+{5\\04} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-hong-kong-sar-china",
+    "name": "Hong Kong",
+    "code": "HK",
+    "startsWith": "852",
+    "translateRU": "Гонконг",
+    "mask": "+{852} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-hungary",
+    "name": "Hungary",
+    "code": "HU",
+    "startsWith": "36",
+    "translateRU": "Венгрия",
+    "mask": "+{36} #[#] ### ###[#]"
+  },
+  {
+    "emoji": "twemoji:flag-iceland",
+    "name": "Iceland",
+    "code": "IS",
+    "startsWith": "354",
+    "translateRU": "Исландия",
+    "mask": "+{354} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-india",
+    "name": "India",
+    "code": "IN",
+    "startsWith": "91",
+    "translateRU": "Индия",
+    "mask": "+{91} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-indonesia",
+    "name": "Indonesia",
+    "code": "ID",
+    "startsWith": "62",
+    "translateRU": "Индонезия",
+    "mask": "+{62} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-iran",
+    "name": "Iran, Islamic Republic Of",
+    "code": "IR",
+    "startsWith": "98",
+    "translateRU": "Иран, Исламская Республика",
+    "mask": "+{98} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-iraq",
+    "name": "Iraq",
+    "code": "IQ",
+    "startsWith": "964",
+    "translateRU": "Ирак",
+    "mask": "+{964} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-ireland",
+    "name": "Ireland",
+    "code": "IE",
+    "startsWith": "353",
+    "translateRU": "Ирландия",
+    "mask": "+{353} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-isle-of-man",
+    "name": "Isle Of Man",
+    "code": "IM",
+    "startsWith": "44",
+    "translateRU": "Остров Мэн",
+    "mask": "+{44} #### ######"
+  },
+  {
+    "emoji": "twemoji:flag-israel",
+    "name": "Israel",
+    "code": "IL",
+    "startsWith": "972",
+    "translateRU": "Израиль",
+    "mask": "+{972} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-italy",
+    "name": "Italy",
+    "code": "IT",
+    "startsWith": "39",
+    "translateRU": "Италия",
+    "mask": "+{39} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-jamaica",
+    "name": "Jamaica",
+    "code": "JM",
+    "startsWith": "1",
+    "translateRU": "Ямайка",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-japan",
+    "name": "Japan",
+    "code": "JP",
+    "startsWith": "81",
+    "translateRU": "Япония",
+    "mask": "+{81} ##-####-####"
+  },
+  {
+    "emoji": "twemoji:flag-jersey",
+    "name": "Jersey",
+    "code": "JE",
+    "startsWith": "44",
+    "translateRU": "Джерси",
+    "mask": "+{44} #### ######"
+  },
+  {
+    "emoji": "twemoji:flag-jordan",
+    "name": "Jordan",
+    "code": "JO",
+    "startsWith": "962",
+    "translateRU": "Иордания",
+    "mask": "+{962} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-kazakhstan",
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "startsWith": "7",
+    "translateRU": "Казахстан",
+    "mask": "+{7} ### ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-kenya",
+    "name": "Kenya",
+    "code": "KE",
+    "startsWith": "254",
+    "translateRU": "Кения",
+    "mask": "+{254} ## #######"
+  },
+  {
+    "emoji": "twemoji:flag-kiribati",
+    "name": "Kiribati",
+    "code": "KI",
+    "startsWith": "686",
+    "translateRU": "Кирибати",
+    "mask": "+{686} ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-south-korea",
+    "name": "South Korea",
+    "code": "SKR",
+    "startsWith": "82",
+    "translateRU": "Южная Корея",
+    "mask": "+{82} ##-####-####"
+  },
+  {
+    "emoji": "twemoji:flag-north-korea",
+    "name": "North Korea",
+    "code": "NKR",
+    "startsWith": "850",
+    "translateRU": "Северная Корея (КНДР)",
+    "mask": "+{850} ##-####-####"
+  },
+  {
+    "emoji": "twemoji:flag-kuwait",
+    "name": "Kuwait",
+    "code": "KW",
+    "startsWith": "965",
+    "translateRU": "Кувейт",
+    "mask": "+{965} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "startsWith": "996",
+    "translateRU": "Киргизия",
+    "mask": "+{996} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-laos",
+    "name": "Lao People's Democratic Republic",
+    "code": "LA",
+    "startsWith": "856",
+    "translateRU": "Лаосская Народно-Демократическая Республика",
+    "mask": "+{856} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-latvia",
+    "name": "Latvia",
+    "code": "LV",
+    "startsWith": "371",
+    "translateRU": "Латвия",
+    "mask": "+{371} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-lebanon",
+    "name": "Lebanon",
+    "code": "LB",
+    "startsWith": "961",
+    "translateRU": "Ливан",
+    "mask": "+{961} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-lesotho",
+    "name": "Lesotho",
+    "code": "LS",
+    "startsWith": "266",
+    "translateRU": "Лесото",
+    "mask": "+{266} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-liberia",
+    "name": "Liberia",
+    "code": "LR",
+    "startsWith": "231",
+    "translateRU": "Либерия",
+    "mask": "+{231} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-libya",
+    "name": "Libyan Arab Jamahiriya",
+    "code": "LY",
+    "startsWith": "218",
+    "translateRU": "Ливийская Арабская Джамахирия",
+    "mask": "+{218} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-liechtenstein",
+    "name": "Liechtenstein",
+    "code": "LI",
+    "startsWith": "423",
+    "translateRU": "Лихтенштейн",
+    "mask": "+{423} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-lithuania",
+    "name": "Lithuania",
+    "code": "LT",
+    "startsWith": "370",
+    "translateRU": "Литва",
+    "mask": "+{37\\0} ### #####"
+  },
+  {
+    "emoji": "twemoji:flag-luxembourg",
+    "name": "Luxembourg",
+    "code": "LU",
+    "startsWith": "352",
+    "translateRU": "Люксембург",
+    "mask": "+{352} ### ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-macao-sar-china",
+    "name": "Macao",
+    "code": "MO",
+    "startsWith": "853",
+    "translateRU": "Макао",
+    "mask": "+{853} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-north-macedonia",
+    "name": "Macedonia",
+    "code": "MK",
+    "startsWith": "389",
+    "translateRU": "Македония",
+    "mask": "+{389} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-madagascar",
+    "name": "Madagascar",
+    "code": "MG",
+    "startsWith": "261",
+    "translateRU": "Мадагаскар",
+    "mask": "+{261} ## ## #####"
+  },
+  {
+    "emoji": "twemoji:flag-malawi",
+    "name": "Malawi",
+    "code": "MW",
+    "startsWith": "265",
+    "translateRU": "Малави",
+    "mask": "+{265} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-malaysia",
+    "name": "Malaysia",
+    "code": "MY",
+    "startsWith": "60",
+    "translateRU": "Малайзия",
+    "mask": "+{6\\0} ##-### ####"
+  },
+  {
+    "emoji": "twemoji:flag-maldives",
+    "name": "Maldives",
+    "code": "MV",
+    "startsWith": "960",
+    "translateRU": "Мальдивы",
+    "mask": "+{96\\0} ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-mali",
+    "name": "Mali",
+    "code": "ML",
+    "startsWith": "223",
+    "translateRU": "Мали",
+    "mask": "+{223} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-malta",
+    "name": "Malta",
+    "code": "MT",
+    "startsWith": "356",
+    "translateRU": "Мальта",
+    "mask": "+{356} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-marshall-islands",
+    "name": "Marshall Islands",
+    "code": "MH",
+    "startsWith": "692",
+    "translateRU": "Маршалловы Острова",
+    "mask": "+{692} ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-martinique",
+    "name": "Martinique",
+    "code": "MQ",
+    "startsWith": "596",
+    "translateRU": "Мартиника",
+    "mask": "+{596} ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-mauritania",
+    "name": "Mauritania",
+    "code": "MR",
+    "startsWith": "222",
+    "translateRU": "Мавритания",
+    "mask": "+{222} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-mauritius",
+    "name": "Mauritius",
+    "code": "MU",
+    "startsWith": "230",
+    "translateRU": "Маврикий",
+    "mask": "+{23\\0} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-mayotte",
+    "name": "Mayotte",
+    "code": "YT",
+    "startsWith": "262",
+    "translateRU": "Майотта",
+    "mask": "+{262} ##### ####"
+  },
+  {
+    "emoji": "twemoji:flag-mexico",
+    "name": "Mexico",
+    "code": "MX",
+    "startsWith": "52",
+    "translateRU": "Мексика",
+    "mask": "+{52} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-micronesia",
+    "name": "Micronesia, Federated States Of",
+    "code": "FM",
+    "startsWith": "691",
+    "translateRU": "Микронезия, Федеративные Штаты",
+    "mask": "+{691} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-moldova",
+    "name": "Moldova",
+    "code": "MD",
+    "startsWith": "373",
+    "translateRU": "Молдова",
+    "mask": "+{373} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-monaco",
+    "name": "Monaco",
+    "code": "MC",
+    "startsWith": "377",
+    "translateRU": "Монако",
+    "mask": "+{377} ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-mongolia",
+    "name": "Mongolia",
+    "code": "MN",
+    "startsWith": "976",
+    "translateRU": "Монголия",
+    "mask": "+{976} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-montenegro",
+    "name": "Montenegro",
+    "code": "ME",
+    "startsWith": "382",
+    "translateRU": "Черногория",
+    "mask": "+{382} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-montserrat",
+    "name": "Montserrat",
+    "code": "MS",
+    "startsWith": "1",
+    "translateRU": "Монтсеррат",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-morocco",
+    "name": "Morocco",
+    "code": "MA",
+    "startsWith": "212",
+    "translateRU": "Марокко",
+    "mask": "+{212} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-mozambique",
+    "name": "Mozambique",
+    "code": "MZ",
+    "startsWith": "258",
+    "translateRU": "Мозамбик",
+    "mask": "+{258} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-myanmar-burma",
+    "name": "Myanmar",
+    "code": "MM",
+    "startsWith": "95",
+    "translateRU": "Мьянма",
+    "mask": "+{95} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-namibia",
+    "name": "Namibia",
+    "code": "NA",
+    "startsWith": "264",
+    "translateRU": "Намибия",
+    "mask": "+{264} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-nauru",
+    "name": "Nauru",
+    "code": "NR",
+    "startsWith": "674",
+    "translateRU": "Науру",
+    "mask": "+{674} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-nepal",
+    "name": "Nepal",
+    "code": "NP",
+    "startsWith": "977",
+    "translateRU": "Непал",
+    "mask": "+{977} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-netherlands",
+    "name": "Netherlands",
+    "code": "NL",
+    "startsWith": "31",
+    "translateRU": "Нидерланды",
+    "mask": "+{31} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-new-caledonia",
+    "name": "New Caledonia",
+    "code": "NC",
+    "startsWith": "687",
+    "translateRU": "Новая Каледония",
+    "mask": "+{687} ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-new-zealand",
+    "name": "New Zealand",
+    "code": "NZ",
+    "startsWith": "64",
+    "translateRU": "Новая Зеландия",
+    "mask": "+{64} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-nicaragua",
+    "name": "Nicaragua",
+    "code": "NI",
+    "startsWith": "505",
+    "translateRU": "Никарагуа",
+    "mask": "+{5\\05} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-niger",
+    "name": "Niger",
+    "code": "NE",
+    "startsWith": "227",
+    "translateRU": "Нигер",
+    "mask": "+{227} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-nigeria",
+    "name": "Nigeria",
+    "code": "NG",
+    "startsWith": "234",
+    "translateRU": "Нигерия",
+    "mask": "+{234} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-niue",
+    "name": "Niue",
+    "code": "NU",
+    "startsWith": "683",
+    "translateRU": "Ниуэ",
+    "mask": "+{683} ####"
+  },
+  {
+    "emoji": "twemoji:flag-norfolk-island",
+    "name": "Norfolk Island",
+    "code": "NF",
+    "startsWith": "672",
+    "translateRU": "Остров Норфолк",
+    "mask": "+{672} ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-northern-mariana-islands",
+    "name": "Northern Mariana Islands",
+    "code": "MP",
+    "startsWith": "1",
+    "translateRU": "Северные Марианские острова",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-norway",
+    "name": "Norway",
+    "code": "NO",
+    "startsWith": "47",
+    "translateRU": "Норвегия",
+    "mask": "+{47} ## ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-oman",
+    "name": "Oman",
+    "code": "OM",
+    "startsWith": "968",
+    "translateRU": "Оман",
+    "mask": "+{968} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-pakistan",
+    "name": "Pakistan",
+    "code": "PK",
+    "startsWith": "92",
+    "translateRU": "Пакистан",
+    "mask": "+{92} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-palau",
+    "name": "Palau",
+    "code": "PW",
+    "startsWith": "680",
+    "translateRU": "Палау",
+    "mask": "+{68\\0} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-palestinian-territories",
+    "name": "Palestine",
+    "code": "PS",
+    "startsWith": "970",
+    "translateRU": "Палестина",
+    "mask": "+{97\\0} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-panama",
+    "name": "Panama",
+    "code": "PA",
+    "startsWith": "507",
+    "translateRU": "Панама",
+    "mask": "+{5\\07} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-papua-new-guinea",
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "startsWith": "675",
+    "translateRU": "Папуа — Новая Гвинея",
+    "mask": "+{675} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-paraguay",
+    "name": "Paraguay",
+    "code": "PY",
+    "startsWith": "595",
+    "translateRU": "Парагвай",
+    "mask": "+{595} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-peru",
+    "name": "Peru",
+    "code": "PE",
+    "startsWith": "51",
+    "translateRU": "Перу",
+    "mask": "+{51} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-philippines",
+    "name": "Philippines",
+    "code": "PH",
+    "startsWith": "63",
+    "translateRU": "Филиппины",
+    "mask": "+{63} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-pitcairn-islands",
+    "name": "Pitcairn",
+    "code": "PN",
+    "startsWith": "64",
+    "translateRU": "Питкэрн",
+    "mask": "+{64} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-poland",
+    "name": "Poland",
+    "code": "PL",
+    "startsWith": "48",
+    "translateRU": "Польша",
+    "mask": "+{48} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-portugal",
+    "name": "Portugal",
+    "code": "PT",
+    "startsWith": "351",
+    "translateRU": "Португалия",
+    "mask": "+{351} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-puerto-rico",
+    "name": "Puerto Rico",
+    "code": "PR",
+    "startsWith": "1",
+    "translateRU": "Пуэрто-Рико",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-qatar",
+    "name": "Qatar",
+    "code": "QA",
+    "startsWith": "974",
+    "translateRU": "Катар",
+    "mask": "+{974} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-reunion",
+    "name": "Reunion",
+    "code": "RE",
+    "startsWith": "262",
+    "translateRU": "Реюньон",
+    "mask": "+{262} ##### ####"
+  },
+  {
+    "emoji": "twemoji:flag-romania",
+    "name": "Romania",
+    "code": "RO",
+    "startsWith": "40",
+    "translateRU": "Румыния",
+    "mask": "+{4\\0} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-russia",
+    "name": "Russia",
+    "code": "RU",
+    "startsWith": "7",
+    "translateRU": "Россия",
+    "mask": "+{7} (###) ###-##-##"
+  },
+  {
+    "emoji": "twemoji:flag-rwanda",
+    "name": "Rwanda",
+    "code": "RW",
+    "startsWith": "250",
+    "translateRU": "Руанда",
+    "mask": "+{25\\0} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-st-barthelemy",
+    "name": "Saint Barthelemy",
+    "code": "BL",
+    "startsWith": "590",
+    "translateRU": "Сен-Бартелеми",
+    "mask": "+{59\\0} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-st-helena",
+    "name": "Saint Helena",
+    "code": "SH",
+    "startsWith": "290",
+    "translateRU": "Остров Святой Елены",
+    "mask": "+{29\\0} ####"
+  },
+  {
+    "emoji": "twemoji:flag-st-kitts-and-nevis",
+    "name": "Saint Kitts And Nevis",
+    "code": "KN",
+    "startsWith": "1",
+    "translateRU": "Сент-Китс и Невис",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-st-lucia",
+    "name": "Saint Lucia",
+    "code": "LC",
+    "startsWith": "1",
+    "translateRU": "Сент-Люсия",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-st-martin",
+    "name": "Saint Martin",
+    "code": "MF",
+    "startsWith": "590",
+    "translateRU": "Сен-Мартен",
+    "mask": "+{59\\0} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-st-pierre-and-miquelon",
+    "name": "Saint Pierre And Miquelon",
+    "code": "PM",
+    "startsWith": "508",
+    "translateRU": "Сен-Пьер и Микелон",
+    "mask": "+{5\\08} ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-st-vincent-and-grenadines",
+    "name": "Saint Vincent And Grenadines",
+    "code": "VC",
+    "startsWith": "1",
+    "translateRU": "Сент-Винсент и Гренадины",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-samoa",
+    "name": "Samoa",
+    "code": "WS",
+    "startsWith": "685",
+    "translateRU": "Самоа",
+    "mask": "+{685} ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-san-marino",
+    "name": "San Marino",
+    "code": "SM",
+    "startsWith": "378",
+    "translateRU": "Сан-Марино",
+    "mask": "+{378} #### ######"
+  },
+  {
+    "emoji": "twemoji:flag-sao-tome-and-principe",
+    "name": "Sao Tome And Principe",
+    "code": "ST",
+    "startsWith": "239",
+    "translateRU": "Сан-Томе и Принсипи",
+    "mask": "+{239} ## ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-saudi-arabia",
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "startsWith": "966",
+    "translateRU": "Саудовская Аравия",
+    "mask": "+{966} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-senegal",
+    "name": "Senegal",
+    "code": "SN",
+    "startsWith": "221",
+    "translateRU": "Сенегал",
+    "mask": "+{221} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-serbia",
+    "name": "Serbia",
+    "code": "RS",
+    "startsWith": "381",
+    "translateRU": "Сербия",
+    "mask": "+{381} ## #### ###"
+  },
+  {
+    "emoji": "twemoji:flag-seychelles",
+    "name": "Seychelles",
+    "code": "SC",
+    "startsWith": "248",
+    "translateRU": "Сейшельские Острова",
+    "mask": "+{248} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-sierra-leone",
+    "name": "Sierra Leone",
+    "code": "SL",
+    "startsWith": "232",
+    "translateRU": "Сьерра-Леоне",
+    "mask": "+{232} ## ######"
+  },
+  {
+    "emoji": "twemoji:flag-singapore",
+    "name": "Singapore",
+    "code": "SG",
+    "startsWith": "65",
+    "translateRU": "Сингапур",
+    "mask": "+{65} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-slovakia",
+    "name": "Slovakia",
+    "code": "SK",
+    "startsWith": "421",
+    "translateRU": "Словакия",
+    "mask": "+{421} [##]# ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-slovenia",
+    "name": "Slovenia",
+    "code": "SI",
+    "startsWith": "386",
+    "translateRU": "Словения",
+    "mask": "+{386} # ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-solomon-islands",
+    "name": "Solomon Islands",
+    "code": "SB",
+    "startsWith": "677",
+    "translateRU": "Соломоновы Острова",
+    "mask": "+{677} #####"
+  },
+  {
+    "emoji": "twemoji:flag-somalia",
+    "name": "Somalia",
+    "code": "SO",
+    "startsWith": "252",
+    "translateRU": "Сомали",
+    "mask": "+{252} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-south-africa",
+    "name": "South Africa",
+    "code": "ZA",
+    "startsWith": "27",
+    "translateRU": "Южная Африка",
+    "mask": "+{27} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-south-georgia-and-south-sandwich-islands",
+    "name": "South Georgia And Sandwich Isl.",
+    "code": "GS",
+    "startsWith": "500",
+    "translateRU": "Южная Георгия и Южные Сандвичевы Острова",
+    "mask": "+{5\\0\\0} #####"
+  },
+  {
+    "emoji": "twemoji:flag-spain",
+    "name": "Spain",
+    "code": "ES",
+    "startsWith": "34",
+    "translateRU": "Испания",
+    "mask": "+{34} ### ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-sri-lanka",
+    "name": "Sri Lanka",
+    "code": "LK",
+    "startsWith": "94",
+    "translateRU": "Шри-Ланка",
+    "mask": "+{94} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-sudan",
+    "name": "Sudan",
+    "code": "SD",
+    "startsWith": "249",
+    "translateRU": "Судан",
+    "mask": "+{249} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-suriname",
+    "name": "Suriname",
+    "code": "SR",
+    "startsWith": "597",
+    "translateRU": "Суринам",
+    "mask": "+{597} ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-svalbard-and-jan-mayen",
+    "name": "Svalbard And Jan Mayen",
+    "code": "SJ",
+    "startsWith": "47",
+    "translateRU": "Шпицберген и Ян-Майен",
+    "mask": "+{47} ### ## ###"
+  },
+  {
+    "emoji": "emojione-v1:flag-for-swaziland",
+    "name": "Swaziland",
+    "code": "SZ",
+    "startsWith": "268",
+    "translateRU": "Свазиленд",
+    "mask": "+{268} ## ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-sweden",
+    "name": "Sweden",
+    "code": "SE",
+    "startsWith": "46",
+    "translateRU": "Швеция",
+    "mask": "+{46} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-switzerland",
+    "name": "Switzerland",
+    "code": "CH",
+    "startsWith": "41",
+    "translateRU": "Швейцария",
+    "mask": "+{41} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-syria",
+    "name": "Syrian Arab Republic",
+    "code": "SY",
+    "startsWith": "963",
+    "translateRU": "Сирийская Арабская Республика",
+    "mask": "+{963} ## #### ###"
+  },
+  {
+    "emoji": "twemoji:flag-taiwan",
+    "name": "Taiwan",
+    "code": "TW",
+    "startsWith": "886",
+    "translateRU": "Тайвань",
+    "mask": "+{886} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-tajikistan",
+    "name": "Tajikistan",
+    "code": "TJ",
+    "startsWith": "992",
+    "translateRU": "Таджикистан",
+    "mask": "+{992} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-tanzania",
+    "name": "Tanzania",
+    "code": "TZ",
+    "startsWith": "255",
+    "translateRU": "Танзания",
+    "mask": "+{255} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-thailand",
+    "name": "Thailand",
+    "code": "TH",
+    "startsWith": "66",
+    "translateRU": "Таиланд",
+    "mask": "+{66} # #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-timor-leste",
+    "name": "Timor-Leste",
+    "code": "TL",
+    "startsWith": "670",
+    "translateRU": "Восточный Тимор",
+    "mask": "+{67\\0} ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-togo",
+    "name": "Togo",
+    "code": "TG",
+    "startsWith": "228",
+    "translateRU": "Того",
+    "mask": "+{228} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-tokelau",
+    "name": "Tokelau",
+    "code": "TK",
+    "startsWith": "690",
+    "translateRU": "Токелау",
+    "mask": "+{69\\0} ####"
+  },
+  {
+    "emoji": "twemoji:flag-tonga",
+    "name": "Tonga",
+    "code": "TO",
+    "startsWith": "676",
+    "translateRU": "Тонга",
+    "mask": "+{676} ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-trinidad-and-tobago",
+    "name": "Trinidad And Tobago",
+    "code": "TT",
+    "startsWith": "1",
+    "translateRU": "Тринидад и Тобаго",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-tunisia",
+    "name": "Tunisia",
+    "code": "TN",
+    "startsWith": "216",
+    "translateRU": "Тунис",
+    "mask": "+{216} ## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-for-flag-turkey",
+    "name": "Turkey",
+    "code": "TR",
+    "startsWith": "90",
+    "translateRU": "Турция",
+    "mask": "+{9\\0} (###) ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-turkmenistan",
+    "name": "Turkmenistan",
+    "code": "TM",
+    "startsWith": "993",
+    "translateRU": "Туркменистан",
+    "mask": "+{993} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-turks-and-caicos-islands",
+    "name": "Turks And Caicos Islands",
+    "code": "TC",
+    "startsWith": "1",
+    "translateRU": "Теркс и Кайкос",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-tuvalu",
+    "name": "Tuvalu",
+    "code": "TV",
+    "startsWith": "688",
+    "translateRU": "Тувалу",
+    "mask": "+{688} ## ###"
+  },
+  {
+    "emoji": "twemoji:flag-uganda",
+    "name": "Uganda",
+    "code": "UG",
+    "startsWith": "256",
+    "translateRU": "Уганда",
+    "mask": "+{256} [#]## ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-ukraine",
+    "name": "Ukraine",
+    "code": "UA",
+    "startsWith": "380",
+    "translateRU": "Украина",
+    "mask": "+{38\\0} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-united-arab-emirates",
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "startsWith": "971",
+    "translateRU": "Объединенные Арабские Эмираты",
+    "mask": "+{971} # ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-united-kingdom",
+    "name": "United Kingdom",
+    "code": "GB",
+    "startsWith": "44",
+    "translateRU": "Великобритания",
+    "mask": "+{44} ## #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-united-states",
+    "name": "United States",
+    "code": "US",
+    "startsWith": "1",
+    "translateRU": "Соединенные Штаты",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-us-outlying-islands",
+    "name": "United States Outlying Islands",
+    "code": "UM",
+    "startsWith": "/A",
+    "translateRU": "Внешние малые острова США",
+    "mask": "N{/A}"
+  },
+  {
+    "emoji": "twemoji:flag-uruguay",
+    "name": "Uruguay",
+    "code": "UY",
+    "startsWith": "598",
+    "translateRU": "Уругвай",
+    "mask": "+{598} # ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-uzbekistan",
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "startsWith": "998",
+    "translateRU": "Узбекистан",
+    "mask": "+{998} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-vanuatu",
+    "name": "Vanuatu",
+    "code": "VU",
+    "startsWith": "678",
+    "translateRU": "Вануату",
+    "mask": "+{678} ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-venezuela",
+    "name": "Venezuela",
+    "code": "VE",
+    "startsWith": "58",
+    "translateRU": "Венесуэла",
+    "mask": "+{58} ###-#######"
+  },
+  {
+    "emoji": "twemoji:flag-vietnam",
+    "name": "Viet Nam",
+    "code": "VN",
+    "startsWith": "84",
+    "translateRU": "Вьетнам",
+    "mask": "+{84} ## #### ###"
+  },
+  {
+    "emoji": "twemoji:flag-british-virgin-islands",
+    "name": "Virgin Islands, British",
+    "code": "VG",
+    "startsWith": "1",
+    "translateRU": "Британские Виргинские Острова",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-us-virgin-islands",
+    "name": "Virgin Islands, U.S.",
+    "code": "VI",
+    "startsWith": "1",
+    "translateRU": "Виргинские Острова (США)",
+    "mask": "+{1} (###) ###-####"
+  },
+  {
+    "emoji": "twemoji:flag-wallis-and-futuna",
+    "name": "Wallis And Futuna",
+    "code": "WF",
+    "startsWith": "681",
+    "translateRU": "Уоллис и Футуна",
+    "mask": "+{681} ## ####"
+  },
+  {
+    "emoji": "twemoji:flag-western-sahara",
+    "name": "Western Sahara",
+    "code": "EH",
+    "startsWith": "212",
+    "translateRU": "Западная Сахара",
+    "mask": "+{212} ####-#####"
+  },
+  {
+    "emoji": "twemoji:flag-yemen",
+    "name": "Yemen",
+    "code": "YE",
+    "startsWith": "967",
+    "translateRU": "Йемен",
+    "mask": "+{967} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-zambia",
+    "name": "Zambia",
+    "code": "ZM",
+    "startsWith": "260",
+    "translateRU": "Замбия",
+    "mask": "+{26\\0} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-zimbabwe",
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "startsWith": "263",
+    "translateRU": "Зимбабве",
+    "mask": "+{263} # ######"
+  }
+]
