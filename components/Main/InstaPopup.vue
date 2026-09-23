@@ -37,7 +37,7 @@
 
                             <SwiperSlide v-for="story in currentStoriesList" :key="story.id">
                               <div class="flex flex-col relative items-center justify-center h-full p-4 px-0 w-fit mx-auto">
-                                <img v-if="story.type === 'image'" :src="story.src"
+                                <img v-if="story.type === 'image'" :src="withBase(story.src)"
                                   class="max-w-full max-h-[90vh] object-contain rounded-md max-w-[412px]" />
                                   <BaseButton @click="btnActionClick()" v-if="story.link" :href="story.link" :class="['w-[90%] bottom-10 max-w-[300px] left-1/2 -translate-x-1/2 absolute!', btnStyle]">{{ story.btnName }}</BaseButton>
                               </div>
@@ -82,6 +82,11 @@ import 'swiper/css'; // Базовые стили Swiper
 
 const props = defineProps<{ isOpen: boolean, closeModal: () => void, start: int }>()
 //const props = defineProps(['open', 'start', 'closeModal']);
+
+const baseURL = useRuntimeConfig().app.baseURL.replace(/\/$/, '')
+function withBase(path: string) {
+  return baseURL + path
+}
 
 const isOpen = ref(false);
 const startPosition = ref(0);
