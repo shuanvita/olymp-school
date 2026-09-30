@@ -18,8 +18,7 @@
                     <li class="px-4 py-2.5 rounded-lg bg-[#FFF5CF] text-[13px] text-black">Проживание в общежитии
                         на кампусе МФТИ</li>
                     <li class="px-4 py-2.5 rounded-lg bg-white text-[13px] text-black">Мерч</li>
-                    <li class="px-4 py-2.5 rounded-lg bg-white text-[13px] text-black">Кураторское сопровождение</li>
-                    <li class="px-4 py-2.5 rounded-lg bg-[#FFF5CF] text-[13px] text-black">Вечернее мероприятие </li>
+                    <li class="px-4 py-2.5 rounded-lg bg-[#FFF5CF] text-[13px] text-black">Вечерние мероприятия</li>
                     <li class="px-4 py-2.5 rounded-lg bg-white text-[13px] text-black">Сертификат</li>
                 </ul>
             </div>

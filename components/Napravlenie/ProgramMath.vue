@@ -7,7 +7,7 @@
 
             <div class="mt-6">
                 <span>Это проект программы, которая будет корректироваться под уровень группы.</span>
-                <div class="grid grid-cols-3 max-[950px]:grid-cols-2 max-[550px]:grid-cols-1 max-[950px]:gap-y-8 mt-2">
+                <div class="grid grid-cols-4 max-[1100px]:grid-cols-2 max-[550px]:grid-cols-1 max-[1100px]:gap-y-8 mt-2">
                     <!-- <div class="flex flex-col">
                         <span
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">7
@@ -43,22 +43,30 @@
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">8
                             класс</span>
                         <div
-                            class="flex flex-col border-r max-[550px]:border-0 max-[950px]:border-0 border-primary px-10 max-[550px]:px-5 gap-4 h-full mt-5">
+                            class="flex flex-col border-r max-[550px]:border-0 max-[1100px]:border-0 border-primary px-10 max-[550px]:px-5 gap-4 h-full mt-5">
                             <ul class="flex flex-col gap-3 ">
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Алгебра
-                                    остатков</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Вписанные
-                                    углы</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Вписанные
-                                    четырёхугольники</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Делимость
-                                </li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Индукция в
-                                    алгебре</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Индукция в
-                                    комбинаторике</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Сочетания
-                                </li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Инварианты и полуинварианты</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Метод математической индукции</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Оценка + пример</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Игры и стратегии</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Правила суммы и произведения</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Перестановки, сочетания, размещения</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Множества, ФВИ</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Деревья</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Двудольные графы</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Эйлеровы графы</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Планарные графы. Раскраски графов</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">НОД и НОК</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Арифметика остатков</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Малая теорема Ферма. Теорема Эйлера</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Китайская теорема об остатках</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Многочлены. Теорема Безу</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Классические неравенства</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Последовательности и прогрессии</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Медианы, биссектрисы, высоты</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Дополнительные построения</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Теорема Чевы и Менелая</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Степень точки</li>
                             </ul>
                         </div>
                         <a class="px-4 mx-2 mt-5 py-2 text-center border-2 border-primary rounded-2xl"
@@ -72,18 +80,30 @@
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">9
                             класс</span>
                         <div
-                            class="flex flex-col border-r max-[550px]:border-0  border-primary px-10 max-[550px]:px-5 gap-4 h-full mt-5">
+                            class="flex flex-col border-r max-[550px]:border-0 max-[1100px]:border-0 border-primary px-10 max-[550px]:px-5 gap-4 h-full mt-5">
                             <ul class="flex flex-col gap-3 ">
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Метод математической индукции</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Оценка + пример</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Теория информации</li>
                                 <li class="border-b border-primary text-base font-semibold leading-5 py-2">Перестановки, сочетания, размещения</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Введение в теорию графов. Деревья</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Планарные графы. Эйлеровы графы</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">НОД и НОК</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Остатки</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Перегородки, сочетания с повторениями</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Бином Ньютона. Треугольник Паскаля</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Реккуренты</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Разбиения и диаграммы Юнга</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Циклы и пути в графах</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Планарные графы. Раскраски графов</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Лемма Холла</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Арифметика остатков</li>
                                 <li class="border-b border-primary text-base font-semibold leading-5 py-2">Малая теорема Ферма. Теорема Эйлера</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Многочлены</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Неравенства о средних</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Подобие. Средняя линия</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Теорема Чевы и Менелая</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Китайская теорема об остатках</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Обратные остатки. Теорема Вильсона</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Классические неравенства</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Функциональные уравнения</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Транснеравенство</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Симедиана</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Степень точки. Радикальные оси</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Геометрия масс</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Движения</li>
                             </ul>
                         </div>
                         <a class="px-4 mx-2 mt-5 py-2 text-center border-2 border-primary rounded-2xl"
@@ -96,17 +116,30 @@
                         <span
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">10
                             класс</span>
-                        <div class="flex flex-col  px-10 gap-4 h-full mt-5">
+                        <div class="flex flex-col border-r max-[1100px]:border-0 border-primary px-10 max-[550px]:px-5 gap-4 h-full mt-5">
                             <ul class="flex flex-col gap-3 ">
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Бином Ньютона</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Планарные графы. Эйлеровы графы</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Инварианты и полуинварианты</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Арифметика остатков</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Функциональные уравнения</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Реккурентные соотношения</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Вписанные, описанные и вневписанные окружности</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Конкуррентность</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Инварианты, полуинварианты</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Оценка + пример</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Перестановки, сочетания, размещения, перегородки</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Бином Ньютона. Треугольник Паскаля</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Реккуренты</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Разбиения и диаграммы Юнга</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Комбигеом</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Циклы и пути в графах</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Планарные графы. Раскраски графов</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Лемма Холла</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Лемма Турана</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Малая теорема Ферма. Теорема Эйлера</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Китайская теорема об остатках</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Обратные остатки. Теорема Вильсона</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Свойства биномиальных коэффициентов</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Неравенство Йенсена</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Транснеравенство</li>
                                 <li class="border-b border-primary text-base font-semibold leading-5 py-2">Стереометрия</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Тебо + Саваяма</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Изогональное сопряжение</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Теорема Паскаля</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Отрезки касательных и теорема Монжа</li>
                             </ul>
                         </div>
                         <a target="_blank" @click="ym_event('save_program')" class="px-4 mx-2 mt-5 text-center py-2 border-2 border-primary rounded-2xl"
@@ -115,6 +148,38 @@
 
                     </div>
 
+
+                    <div class="flex flex-col">
+                        <span
+                            class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">11
+                            класс</span>
+                        <div class="flex flex-col px-10 max-[550px]:px-5 gap-4 h-full mt-5">
+                            <ul class="flex flex-col gap-3 ">
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Усиление индукции. Бесконечный спуск</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Игры и стратегии. Алгоритмы и процессы</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Перестановки, сочетания, размещения, перегородки</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Бином Ньютона. Треугольник Паскаля</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Производящие функции и рекурренты</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Вероятностный метод</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Комбигеом</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Связность. Мосты. Точки сочленения</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Паросочетания. Теорема Холла</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Потоки в сетях. Теорема Форда–Фалкерсона</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Экстремальные задачи на графах</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Обратные остатки. Теорема Вильсона</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Свойства биномиальных коэффициентов</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Первообразные корни. Порядок элемента</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">LTE лемма, p-адические оценки</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Производная в неравенствах. Подпор касательной</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Выпуклость. Неравенство Йенсена</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Стереометрия: сечения и проекции</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Сферы в стереометрии</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Изогональное сопряжение</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Афинные преобразования</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Поляры и полюсы</li>
+                            </ul>
+                        </div>
+                    </div>
 
 
                 </div>
