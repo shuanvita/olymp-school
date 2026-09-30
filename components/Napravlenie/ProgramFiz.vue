@@ -7,7 +7,7 @@
 
             <div class="mt-6">
                 <span>Это проект программы, которая будет корректироваться под уровень группы.</span>
-                <div class="grid grid-cols-3 max-[950px]:grid-cols-2 max-[550px]:grid-cols-1 max-[950px]:gap-y-8 mt-2">
+                <div class="grid grid-cols-4 max-[1100px]:grid-cols-2 max-[550px]:grid-cols-1 max-[1100px]:gap-y-8 mt-2">
                     <!-- <div class="flex flex-col">
                         <span
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">7
@@ -39,24 +39,12 @@
                         <span
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">8
                             класс</span>
-                        <div class="flex flex-col border-r max-[950px]:border-0 border-primary px-3 gap-4 h-full  mt-5">
+                        <div class="flex flex-col border-r max-[1100px]:border-0 border-primary px-3 gap-4 h-full  mt-5">
                             <ul class="flex flex-col gap-3 ">
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Работа.
-                                    Мощность. Энергия. Понятие потенциала</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Метод
-                                    виртуальных перемещений</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Удельное
-                                    сопротивление. Простые цепи</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Симметрия
-                                </li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Разветвленные
-                                    цепи</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Расчет
-                                    бесконечных цепей и цепей с приборами</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Работа и
-                                    мощность тока</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Теплота,
-                                    теплопроводность</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Кинематика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Статика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Гидростатика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Тепловые явления</li>
                             </ul>
                         </div>
                     </div>
@@ -66,23 +54,12 @@
                         <span
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">9
                             класс</span>
-                        <div class="flex flex-col border-r max-[550px]:border-0 border-primary px-3 gap-4 h-full  mt-5">
+                        <div class="flex flex-col border-r max-[1100px]:border-0 border-primary px-3 gap-4 h-full  mt-5">
                             <ul class="flex flex-col gap-3 ">
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Баллистика.
-                                    Координатный метод. Треугольник скоростей</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Кинематика
-                                    систем со связями</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Динамика
-                                    систем со связями</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Закон
-                                    сохранения энергии </br>Консервативные системы</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Закон
-                                    сохранения энергии </br>Диссипативные системы</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Удары</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">
-                                    Непараллельные силы. Устойчивое и неустойчивое равновесие</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Сила Архимеда
-                                    в движущихся сосудах</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Кинематика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Статика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Гидростатика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Электрические цепи</li>
                             </ul>
                         </div>
                     </div>
@@ -92,26 +69,30 @@
                         <span
                             class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">10
                             класс</span>
-                        <div class="flex flex-col border-r max-[950px]:border-0 border-primary px-3 gap-4 h-full  mt-5">
+                        <div class="flex flex-col border-r max-[1100px]:border-0 border-primary px-3 gap-4 h-full  mt-5">
                             <ul class="flex flex-col gap-3 ">
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Кулон.
-                                    Динамика</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Суперпозиция
-                                    </br>Поле равномерно заряженного отрезка. Нормальная компонента</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Теорема
-                                    Гаусса</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Потенциал.
-                                    Энергия взаимодействия зарядов</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Конденсаторы
-                                </li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Плотность
-                                    энергии</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Диэлектрики.
-                                    Плотность электрического тока</li>
-                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">RC-цепи</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Термодинамика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Механика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Электричество</li>
                             </ul>
                         </div>
                     </div>
+
+
+                    <div class="flex flex-col">
+                        <span
+                            class="title text-base font-semibold border border-primary rounded-t-base text-center py-3">11
+                            класс</span>
+                        <div class="flex flex-col border-primary px-3 gap-4 h-full  mt-5">
+                            <ul class="flex flex-col gap-3 ">
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Колебания</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Термодинамика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Механика</li>
+                                <li class="border-b border-primary text-base font-semibold leading-5 py-2">Электромагнетизм</li>
+                            </ul>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 
