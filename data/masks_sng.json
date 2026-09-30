@@ -1,0 +1,82 @@
+[
+  {
+    "emoji": "twemoji:flag-armenia",
+    "name": "Armenia",
+    "code": "AM",
+    "startsWith": "374",
+    "translateRU": "Армения",
+    "mask": "+{374} ## ### ## #"
+  },
+  {
+    "emoji": "twemoji:flag-azerbaijan",
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "startsWith": "994",
+    "translateRU": "Азербайджан",
+    "mask": "+{994} ## ### ## ##"
+  },
+  {
+    "emoji": "twemoji:flag-belarus",
+    "name": "Belarus",
+    "code": "BY",
+    "startsWith": "375",
+    "translateRU": "Беларусь",
+    "mask": "+{375} (##) ###-##-##"
+  },
+  {
+    "emoji": "twemoji:flag-kazakhstan",
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "startsWith": "7",
+    "translateRU": "Казахстан",
+    "mask": "+{7} ### ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-kyrgyzstan",
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "startsWith": "996",
+    "translateRU": "Киргизия",
+    "mask": "+{996} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-moldova",
+    "name": "Moldova",
+    "code": "MD",
+    "startsWith": "373",
+    "translateRU": "Молдова",
+    "mask": "+{373} #### ####"
+  },
+  {
+    "emoji": "twemoji:flag-russia",
+    "name": "Russian Federation",
+    "code": "RU",
+    "startsWith": "7",
+    "translateRU": "Российская Федерация",
+    "mask": "+{7} (###) ###-##-##"
+  },
+  {
+    "emoji": "twemoji:flag-tajikistan",
+    "name": "Tajikistan",
+    "code": "TJ",
+    "startsWith": "992",
+    "translateRU": "Таджикистан",
+    "mask": "+{992} ## ### ####"
+  },
+  {
+    "emoji": "twemoji:flag-turkmenistan",
+    "name": "Turkmenistan",
+    "code": "TM",
+    "startsWith": "993",
+    "translateRU": "Туркменистан",
+    "mask": "+{993} # ### ###"
+  },
+  {
+    "emoji": "twemoji:flag-uzbekistan",
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "startsWith": "998",
+    "translateRU": "Узбекистан",
+    "mask": "+{998} ## ### ####"
+  }
+]
