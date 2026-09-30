@@ -32,8 +32,7 @@
                 </div>
                 <div class="col-span-6 flex justify-between items-center gap-4 max-xmd:col-span-9 max-[520px]:flex-col">
                     <img class="max-w-[370px] max-[800px]:max-w-[45%] max-[520px]:max-w-full max-[520px]:w-full" src="/About/people.png" />
-                    <p class="text-base">Каждый пятый участник Олимпиадных школ МФТИ стал победителем или призёром
-                        заключительного этапа ВсОШ в 2026 году</p>
+                    <p class="text-base">Каждый пятый участник Олимпиадных школ МФТИ 2026 года стал победителем или призёром заключительного этапа ВсОШ</p>
                 </div>
             </div>
         </div>

@@ -11,12 +11,10 @@
                     преподавателями, чьи ученики получают дипломы всероссийских олимпиад.</p>
 
               <div class="flex flex-col lg:flex-row flex-wrap items-stretch gap-3 font-inter">
-                <!-- Отдельный блок ВсОШ -->
                 <div class="lg:min-w-[218px] flex items-center justify-center px-7 py-5 rounded-[26px] bg-[#B468E0] text-white text-xl sm:text-[36px] font-medium">
                   {{ firstTag }}
                 </div>
 
-                <!-- РСОШ + теги — единый блок -->
                 <div class="flex flex-col lg:flex-row flex-1 rounded-[26px] overflow-hidden bg-primary-light">
                   <div class="flex lg:min-w-[218px] items-center justify-center px-7 py-5 bg-[#B468E0] text-white text-xl sm:text-[36px] font-medium rounded-[26px] shrink-0">
                     {{ secondTag }}
