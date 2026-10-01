@@ -3,14 +3,12 @@
     class="max-w-(--breakpoint-layout) mx-auto">
     <!-- <div class="space-y-6 mt-15 overflow-hidden max-w-(--breakpoint-layout) mx-auto"> -->
         <BaseHeading id="price-heading" class="items-start flex gap-4 max-[700px]:flex-col max-[700px]:gap-1">
-            Стоимость <span class="text-xl font-nunito-sans text-black lowercase font-medium  max-[700px]:text-base">*При оплате до 30 сентября 2026</span>
+            Стоимость
         </BaseHeading>
         <div class="grid grid-cols-2 bg-primary-light rounded-base max-[700px]:grid-cols-1">
             <div class="bg-primary rounded-base flex flex-col items-center space-y-6  px-12 py-13 max-xmd:px-6 max-xmd:py-6">
                 <div class="text-white font-bold text-5xl max-xmd:text-3xl relative pt-9">
-                    <s
-                        class="absolute top-0 right-0 text-[#E69AFF] text-4xl max-xmd:text-3xl -translate-y-1/4 translate-x-1/2 max-xmd:translate-x-1/3 max-xmd:-translate-y-1/6">138 000 ₽</s>
-                    128 000 ₽
+                    138 000 ₽
                 </div>
                 <ul class="flex flex-wrap justify-center gap-x-1.5 gap-y-3  max-xmd:gap-y-1.5 text-center">
                     <li class="px-4 py-2.5 rounded-lg bg-white text-[13px] text-black">Образовательная программа</li>
